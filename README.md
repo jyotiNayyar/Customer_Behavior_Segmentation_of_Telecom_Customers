@@ -7,4 +7,4 @@ The project structure is as mentioned below -
 
 SQL_script.sql : The sql script is used to retrieve raw data from GCP. The retrieved data is then accessed in python for further analysis.
 
-Python_code.ipynb : Python code present in this file is used for exploratory data analysis, customer segmentation, profiling and writing the results back to GCP Big query.
+Python_code.ipynb : Python code present in this file is used for exploratory data analysis, customer segmentation and writing the results back to GCP Big query.
