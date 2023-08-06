@@ -1,5 +1,3 @@
-# Customer_Behavior_Segmentation_of_Telecom_Customers
-
 # Customer Behavior Segmentation of Telecom Customers - Dissertation Project
 
 The objective of the project is to help Guniea Mobile SAC to understand its customers and create a mapping of customer segments to socio-economic classes in Peru. This study implements various machine learning algorithms to perform clustering on customers of Guinea Mobile.
